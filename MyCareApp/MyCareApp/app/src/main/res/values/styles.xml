@@ -8,4 +8,29 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="button_paw_style">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textColor">@color/colorTextDark</item>
+        <item name="android:background">@mipmap/button_paw</item>
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+
+    <style name="text_header_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+    <style name="animal_name_style">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+    <!-- TODO Add other styling for headers -->
+
 </resources>

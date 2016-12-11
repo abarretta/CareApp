@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">MyCareApp</string>
+    <string name="organization_name">The CARE Foundation</string>
     <string name="lucious_info">When Lucious first came to us at 3 months of age, we knew he had some health problems.
         He had already had eye surgery to fix an issue with one of his eyelids. We often provide permanent homes for
         exotic non-releasable animals that are hard to place with other zoos and sanctuaries due to health or behavioral issues, so Lucious was a perfect fit for us. \n \n
@@ -10,4 +11,8 @@
         He has several tests including an MRI and specialized blood panels, and was seen by the heads of several veterinary departments. The final diagnosis came
         in as Hypovitaminosis, a genetic disorder that affects a small population of lions in captivity. In short, Hypovitaminosis is a vitamin A deficiency
         which results in enlarged bones in the head and necks of lions, which can but pressure on the brain affecting motor functions such as balance and coordination.</string>
+    <string name="map_description">Scalable map of The CARE Foundation</string>
+    <string name="hours_label">Hours</string>
+    <string name="contact_label">Contact</string>
+    <string name="location_label">Location</string>
 </resources>
