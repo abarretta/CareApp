@@ -15,4 +15,9 @@
     <string name="hours_label">Hours</string>
     <string name="contact_label">Contact</string>
     <string name="location_label">Location</string>
+    <string name="contact_text">Contact: 407-247-8948</string>
+    <string name="location_text">Location:\n4609 West Ponkan Road\nApopka, FL 32712</string>
+    <string name="hours_text">Hours: Tours by Appointment Only</string>
+    <string name="map_button">Facility Map</string>
+    <string name="animals_button">Our Animals</string>
 </resources>
